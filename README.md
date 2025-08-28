@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project]([https://lovable.dev/projects/39081171-cb98-4c55-8abf-8e528208ce24](https://snapalyze-jet.vercel.app/)) and start prompting.
+Simply visit the [Lovable Project](https://snapalyze-jet.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
